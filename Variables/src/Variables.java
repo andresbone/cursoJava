@@ -1,7 +1,7 @@
 public class Variables {
     public static void main(String[] args) {
-        // variables
 
+        // variables
         int edad = 32;
         double precio = 30.9;
         boolean disponible = true; //true or false
